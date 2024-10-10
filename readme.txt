@@ -1,3 +1,9 @@
-;; This buffer is for text that is not saved, and for Lisp evaluation.
-;; To create a file, visit it with C-x C-f and enter text in its buffer.
+
+There are 10 tasks in the project. The code for each task is implemented in a separate cell in the runme.ipynb file. The code should run sequentially from Task 1 to Task 10.
+
+We name our functions using the format name_Tk, where k corresponds to the task cell where the function is defined. For example, update_team_ratings_T6 is a function that has been defined in Task 6.
+
+
+
+
 
